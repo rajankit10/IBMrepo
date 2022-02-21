@@ -1,0 +1,70 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Duplicate),Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Link),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+Verify that the file which is going to be uploaded can be a pdf file,EL-21,10020,Bug,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,18/Feb/22 3:40 PM,20/Feb/22 7:10 PM,18/Feb/22 3:48 PM,,,0,"Steps to reach to the BUG:
+
+# Navigate to Elearning application
+# Click and sign up and enter the valid credentials
+# Go to Social network and Choose My Shared Profile
+# Verify that the file which is going to be uploaded can be a pdf filE
+
+Expected Result:
+
+it will show the pdf in the feed after clicking on post button
+
+Actual Result:
+
+it is not showing the pdf file in the feed after clicking on post button",,Ankit Raj,620b327cf4d8af0070fca327,,,,,,,,,,,,,,,{},,,,0|i00036:,,EL Sprint 1,,,,,,,,In Progress
+Verify that a word length exceeding will print in different lines or not,EL-20,10019,Bug,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,18/Feb/22 3:36 PM,20/Feb/22 7:11 PM,21/Feb/22 12:36 AM,,,0,"Steps to reach to the bug:
+
+# Navigate to Elearning application
+# Click and sign up and enter the valid credentials
+# Go to Social network and Choose My Shared Profile
+# Verify that a word length exceeding will print in different lines or not
+
+
+
+
+
+Expected result:
+
+if the length of a word is exceeding the layout size of message box then it will be printed in the next line onwards
+
+
+
+Actual Result:
+
+if the length of a word is exceeding the layout size of the messagebox then it still printing it in the same line.",,Ankit Raj,620b327cf4d8af0070fca327,,,,,,,,,EL-8,,,,,,{},,,,0|i00035:,,EL Sprint 1,,,,,,,,In Progress
+Verify if we write a word with more than 100 letters than it will be written in multiple lines in the chatbox or not,EL-19,10018,Bug,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,18/Feb/22 3:33 PM,21/Feb/22 12:30 AM,21/Feb/22 12:30 AM,,,0,"Steps to reach to the bug: 
+
+# Navigate to Elearning application
+# Click and sign up and enter the valid credentials
+# Go to My Courses and subscribe to a course
+# click on the couse and choose chat button
+# Verify if we write a word with more than 100 letters than it will be written in multiple lines in the chatbox or not
+
+
+
+Expected Result:
+
+the chat message will be printed in multiple lines based on the layout size of the chat box after sending the message
+
+Actual Result:
+
+the chat message is not printing in multiple lines based on the layout size of the chat box after the message.",,Ankit Raj,620b327cf4d8af0070fca327,,,,,,,,,,,,,,,{},,,,0|i00037:,,EL Sprint 1,,,,,,,,In Progress
+Verify that we can send white space characters only from the chat box,EL-18,10017,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:04 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0003r:,,EL Sprint 1,,,,,,,,In Progress
+Verify that we can send alpha Numeric characters only from the chat box,EL-17,10016,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:04 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0003z:,,EL Sprint 1,,,,,,,,In Progress
+Verify that we can send Numeric characters only from the chat box,EL-16,10015,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0003b:,,EL Sprint 1,,,,,,,,In Progress
+Verify that we can send special characters only from the chat box,EL-15,10014,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i00033:,,EL Sprint 1,,,,,,,,In Progress
+Verify that you can forward or share to more than one people but not to all  simultenously,EL-14,10013,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:24 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0002v:,,EL Sprint 1,,,,,,,,In Progress
+Verify that text can be added in preview section,EL-13,10012,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0002z:,,EL Sprint 1,,,,,,,,In Progress
+verify that emojis and text can be texted at once,EL-12,10011,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0002f:,,EL Sprint 1,,,,,,,,In Progress
+Verify that the passge will be written in  mutliple lines in the chat box,EL-11,10010,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0002n:,,EL Sprint 1,,,,,,,,In Progress
+Verify if we write a word with more than 100 letters than it will be written in multiple lines in the chatbox or not,EL-10,10009,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:28 PM,18/Feb/22 3:27 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0002b:,,EL Sprint 1,,,,,,,,In Progress
+Verify that the word length exceeding the comment section of the post will print in different lines or not,EL-9,10008,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:13 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0001r:,,EL Sprint 1,,,,,,,,In Progress
+Verify that a word length exceeding will print in different lines or not,EL-8,10007,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,19/Feb/22 7:12 PM,20/Feb/22 7:10 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0001j:,,EL Sprint 1,,,,,,,,In Progress
+Verify when we choose .ppt file and left message field empty,EL-7,10006,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:37 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0001b:,,EL Sprint 1,,,,,,,,In Progress
+Verify that message box can contain only white spaces,EL-6,10005,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:36 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i00013:,,EL Sprint 1,,,,,,,,In Progress
+Verify that post can't be made if the message box and file upload section is empty,EL-5,10004,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:36 PM,18/Feb/22 3:19 PM,18/Feb/22 3:05 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0000v:,,EL Sprint 1,,,,,,,,In Progress
+Verify the message box that It contains special characters as message,EL-4,10003,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:36 PM,18/Feb/22 3:19 PM,18/Feb/22 3:06 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0000n:,,EL Sprint 1,,,,,,,,In Progress
+Verify that that file wich is going to be uploaded can be a jpeg file,EL-3,10002,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:36 PM,18/Feb/22 3:19 PM,18/Feb/22 3:07 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i0000f:,,EL Sprint 1,,,,,,,,In Progress
+Verify that the file which is going to be uploaded can be a pdf file,EL-2,10001,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:36 PM,18/Feb/22 3:19 PM,18/Feb/22 3:11 PM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|i00007:,,EL Sprint 1,,,,,,,,In Progress
+Verify the message box with more than 100 words,EL-1,10000,Test,In Progress,EL,Elearning,software,Ankit Raj,620b327cf4d8af0070fca327,,Medium,,Ankit Raj,620b327cf4d8af0070fca327,Ankit Raj,620b327cf4d8af0070fca327,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,18/Feb/22 2:36 PM,18/Feb/22 3:19 PM,21/Feb/22 12:37 AM,,,0,,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,,,,,,{},,,,0|hzzzzz:,,EL Sprint 1,,,,,,,,In Progress
